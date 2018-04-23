@@ -5,10 +5,11 @@ language_tabs:
   - ruby
   - python
   - javascript
+  - php
+  - csharp
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
+  - <a href='#'>Sign up for an API key</a>
 
 includes:
   - main
@@ -16,4 +17,4 @@ includes:
 
 search: true
 
-highlight_theme: monokai
+highlight_theme: agate
